@@ -1,0 +1,5 @@
+{
+  "name": "Internship Activity Log Tracker",
+  "description": "An open-source web application for interns to track their daily activities during an internship period. The application allows users to define their internship span, log daily activities, and generate weekly and overall reports in Excel and PDF formats. All data is stored locally in the browser.",
+  "requestFramePermissions": []
+}

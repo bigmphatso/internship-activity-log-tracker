@@ -1,6 +1,8 @@
 
 # Internship Activity Tracker
 
+Application deployed at URL https://internship-activity-log-tracker.vercel.app/
+
 This is an open-source web application designed for interns to track their daily activities during an internship. The application allows users to define their internship span, log daily activities, and generate weekly and overall reports in PDF and Excel formats.
 
 This version is architected to use **Firebase** for authentication and data storage, providing a secure, scalable, and cloud-based solution.
